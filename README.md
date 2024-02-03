@@ -1,4 +1,6 @@
-# chatbot-with-rag
+# Gemini를 이용한 RAG 구성 방법
+
+여기서는 Google의 Gemini를 AWS와 연동하여 RAG를 구현하는 방법에 대해 설명합니다.
 
 ## Gemini API 설정
 
