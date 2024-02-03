@@ -14,6 +14,11 @@ pip install pillow
 pip install matplotlib
 ```
 
+[Google Cloud Vertex AI](https://python.langchain.com/docs/integrations/llms/google_vertex_ai_palm)에 따라서 아래와 같이 langchain-google-vertexai을 설치합니다.
+
+```text
+pip install --upgrade --quiet  langchain-core langchain-google-vertexai
+```
 
 ## Reference
 
