@@ -23,3 +23,5 @@ pip install --upgrade --quiet  langchain-core langchain-google-vertexai
 ## Reference
 
 [Bard Chatbot](https://bard.google.com/chat)
+
+[Getting Started with LangChain 🦜️🔗 + Vertex AI PaLM API](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/orchestration/langchain/intro_langchain_palm_api.ipynb)
